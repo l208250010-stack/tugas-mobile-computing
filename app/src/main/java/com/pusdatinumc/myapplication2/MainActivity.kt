@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
     private var mMap: GoogleMap? = null
     private var currentPolyline: Polyline? = null
 
-    // Koordinat Target: Kampus 2 UMC Watubelah
+    // Koordinat Target: FTI UMS
     private val targetLat = -7.5567196
     private val targetLng = 110.7684391
 
