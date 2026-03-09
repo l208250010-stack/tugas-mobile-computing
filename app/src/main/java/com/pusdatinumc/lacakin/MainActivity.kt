@@ -34,9 +34,15 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
     private var mMap: GoogleMap? = null
     private var currentPolyline: Polyline? = null
 
+
     // Koordinat Target: Kampus 2 UMC Watubelah
     private val targetLat = -6.7422449
     private val targetLng = 108.4934377
+
+    // Koordinat Target: FTI UMS
+    //private val targetLat = -7.5567196
+    //private val targetLng = 110.7684391
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
