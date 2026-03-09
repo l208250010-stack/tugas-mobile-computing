@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.pusdatinumc.myapplication2"
+    namespace = "com.pusdatinumc.lacakin"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.pusdatinumc.myapplication2"
+        applicationId = "com.pusdatinumc.lacakin"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

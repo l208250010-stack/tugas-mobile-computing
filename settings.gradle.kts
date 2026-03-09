@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Application 2"
+rootProject.name = "LacakIn"
 include(":app")

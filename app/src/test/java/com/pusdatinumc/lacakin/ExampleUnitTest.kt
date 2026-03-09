@@ -1,4 +1,4 @@
-package com.pusdatinumc.myapplication2
+package com.pusdatinumc.lacakin
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.pusdatinumc.myapplication2
+package com.pusdatinumc.lacakin
 
 import android.Manifest
 import android.content.pm.PackageManager
@@ -35,8 +35,8 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
     private var currentPolyline: Polyline? = null
 
     // Koordinat Target: Kampus 2 UMC Watubelah
-    private val targetLat = -7.5567196
-    private val targetLng = 110.7684391
+    private val targetLat = -6.7422449
+    private val targetLng = 108.4934377
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
